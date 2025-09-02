@@ -17,7 +17,7 @@ Here, you'll find step-by-step examples of responsive web components built with 
 If you want to contribute or suggest improvements, feel free to open an issue or submit a pull request. All contributions are welcome!
 
 ## Playlist
-Check out the full playlist of tutorials here: [YouTube Playlist Link]
+Check out the full playlist of tutorials here: [[YouTube Playlist Link]](https://www.youtube.com/watch?v=uXoZqSoHc2k&list=PL50lkdW5679gsFTvzcah7YEDt3TUJZdNq)
 
 ---
 
