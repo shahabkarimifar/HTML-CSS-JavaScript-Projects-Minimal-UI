@@ -3,6 +3,9 @@
 Welcome to the collection of coding projects featured in my YouTube videos!  
 Here, you'll find step-by-step examples of responsive web components built with **HTML, CSS, and JavaScript**.
 
+## 📸 Preview
+![Screenshot](images/screenshot.png)
+
 ## What You'll Find Here
 - Complete source code for each project
 - Instructions and tips to follow along
